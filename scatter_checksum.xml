@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<scatter>
+	<version>1.0</version>
+	<images>
+		<file name="preloader_x6833b_h894.bin" chk_method="ADD" checksum="0xc17fb4a1"/>
+		<file name="preloader_x6833b_h894.bin" chk_method="ADD" checksum="0xc17fb4a1"/>
+		<file name="tkv.img" chk_method="ADD" checksum="0x2d04f09d"/>
+		<file name="vbmeta.img" chk_method="ADD" checksum="0x7d9f0ca1"/>
+		<file name="vbmeta_system.img" chk_method="ADD" checksum="0x614e00bd"/>
+		<file name="vbmeta_vendor.img" chk_method="ADD" checksum="0x4ecaa29d"/>
+		<file name="md1img.img" chk_method="ADD" checksum="0xdb3c0b84"/>
+		<file name="spmfw.img" chk_method="ADD" checksum="0xaa9d348a"/>
+		<file name="pi_img.img" chk_method="ADD" checksum="0x8ed66564"/>
+		<file name="dpm.img" chk_method="ADD" checksum="0x5f74141c"/>
+		<file name="scp.img" chk_method="ADD" checksum="0xf51603bd"/>
+		<file name="sspm.img" chk_method="ADD" checksum="0x7da9de5c"/>
+		<file name="mcupm.img" chk_method="ADD" checksum="0x47e71078"/>
+		<file name="gz.img" chk_method="ADD" checksum="0x433f8ab8"/>
+		<file name="lk.img" chk_method="ADD" checksum="0x39ef00e9"/>
+		<file name="logo.bin" chk_method="ADD" checksum="0x5adbeeaa"/>
+		<file name="boot.img" chk_method="ADD" checksum="0xafce1c17"/>
+		<file name="vendor_boot.img" chk_method="ADD" checksum="0x4b9158bb"/>
+		<file name="dtbo.img" chk_method="ADD" checksum="0x98a580ea"/>
+		<file name="tee.img" chk_method="ADD" checksum="0x94358d2d"/>
+		<file name="efuse.img" chk_method="ADD" checksum="0x800a14f4"/>
+		<file name="logo.bin" chk_method="ADD" checksum="0x5adbeeaa"/>
+		<file name="super.img" chk_method="ADD" checksum="0xd8c6f562"/>
+		<file name="tranfs.img" chk_method="ADD" checksum="0xe6cddd62"/>
+		<file name="userdata.img" chk_method="ADD" checksum="0xac4edb86"/>
+	</images>
+</scatter>
